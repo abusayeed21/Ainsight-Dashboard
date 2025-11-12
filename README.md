@@ -65,8 +65,8 @@ AINSIGHT transforms raw system metrics into actionable intelligence. It continuo
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ainsight-dashboard.git
-cd ainsight-dashboard
+https://github.com/abusayeed21/Ainsight-Dashboard.git
+cd Ainsight-Dashboard
 
 # Configure environment
 cp .env.example .env
