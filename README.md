@@ -232,7 +232,7 @@ Built with ❤️ using:
 
 - 🐛 **Bug Reports:** [Open an issue](https://github.com/<your-username>/ainsight-dashboard/issues)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/<your-username>/ainsight-dashboard/discussions)
-- 📧 **Email:** support@ainsight.dev
+- 📧 **Email:** support@x911.space
 - 🌟 **Star this repo** if you find it useful!
 
 ---
@@ -243,7 +243,7 @@ Built with ❤️ using:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=<your-username>/ainsight-dashboard&type=Date)](https://star-history.com/#<your-username>/ainsight-dashboard&Date)
 
-**Made with 💙 by developers, for developers**
+**Made with ❤️ by Md Abu Sayeed, for developers**
 
 [⬆ Back to Top](#-ainsight)
 
